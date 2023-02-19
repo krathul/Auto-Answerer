@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	color: var(--text-dark);
+}
+
+.border-right {
+	border-right: var(--border);
+}
+
+.num-wrapper {
+	padding: 0.25rem 0.5rem;
+	background-color: var(--yellow);
+	line-height: 1;
+	border-radius: 100px;
+	font-size: 0.875rem;
+}

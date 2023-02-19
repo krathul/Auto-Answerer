@@ -1,0 +1,18 @@
+:root {
+	--text-dark: #181f26;
+	--text-grey: #85878b;
+	--border-color: #d3d3d3;
+	--blue: #0018f3;
+	--grey-bg: #fafafa;
+	--placeholder-color: #c5c5c5;
+	--grey-button: #ebebeb;
+	--input-bg: #f0f0f0;
+	--green: #00ac5a;
+	--yellow: #ffd363;
+	--pink: #e12495;
+	--white: #fff;
+
+	--border: 1px solid var(--border-color);
+
+	--radius-md: 0.375rem;
+}
